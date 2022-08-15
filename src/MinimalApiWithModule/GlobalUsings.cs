@@ -1,0 +1,12 @@
+﻿global using System.ComponentModel;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.OpenApi.Models;
+global using MinimalApiWithModule;
+global using MinimalApiWithModule.Models;
+global using MinimalApiWithModule.Modules.Notes.Adapters;
+global using MinimalApiWithModule.Modules.Notes.Ports;
+global using MinimalApiWithModule.Modules.Persons.Adapters;
+global using MinimalApiWithModule.Modules.Persons.Ports;
+global using MinimalApiWithModule.Modules.Tickets.Adapters;
+global using MinimalApiWithModule.Modules.Tickets.Ports;
